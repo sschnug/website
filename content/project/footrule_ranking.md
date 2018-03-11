@@ -5,7 +5,7 @@ date = "2016-04-27"
 weight = 8
 
 # Project title.
-title = "kemeny_ranking"
+title = "footrule_ranking"
 
 # Project summary to display on homepage.
 summary = "Python-based Footrule-Rank-Aggregation using Linear-programming"

@@ -38,4 +38,4 @@ weight = 5
 
 I'm somebody interested in many branches of computer science, operations research and applied math.
 
-This small page is dedicated to give a small overview of my interests and also some of my work.
+This page is dedicated to give a small overview of my interests and also a description of *some* of my software (available on Github).
