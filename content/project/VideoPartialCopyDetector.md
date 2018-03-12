@@ -2,7 +2,7 @@
 # Date this page was created.
 date = "2016-04-27"
 
-weight = 3
+weight = 4
 
 # Project title.
 title = "pyVideoPartialCopyDetector"

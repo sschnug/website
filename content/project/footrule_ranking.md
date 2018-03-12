@@ -2,7 +2,7 @@
 # Date this page was created.
 date = "2016-04-27"
 
-weight = 8
+weight = 9
 
 # Project title.
 title = "footrule_ranking"

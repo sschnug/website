@@ -1,24 +1,24 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2018-03-12"
 
-weight = 8
+weight = 2
 
 # Project title.
-title = "kemeny_ranking"
+title = "Max-norm regularized Matrix-factorization (Projected SGD)"
 
 # Project summary to display on homepage.
-summary = "Python-based exact Kemeny-Rank-Aggregation using Mixed-integer programming"
+summary = "Low-rank Matrix-Factorization with Max-Norm Regularization by Projected Stochastic Gradient Descent"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["mathematical-optimization", "python"]
+tags = ["machine-learning", "python"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://github.com/sschnug/kemeny_ranking"
+external_link = "https://github.com/sschnug/MaxNormRegCollaborativeFiltering_SGD"
 
 # Does the project detail page use math formatting?
 math = false
@@ -31,7 +31,8 @@ math = false
 +++
 
 ### Summary
-This is an efficient MIP-formulation of the Kemeny Score Rank Aggregation problem, which might also
-serve as additional documentation/example for the usage of [cylp](https://github.com/coin-or/CyLP) (which has very sparse documentation).
+This is a simplified implementation of:
+
+> LEE, Jason D., et al. Practical large-scale optimization for max-norm regularization. In: Advances in Neural Information Processing Systems. 2010. S. 1297-1305.
 
 More information is available at the project-page.

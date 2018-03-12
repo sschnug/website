@@ -2,7 +2,7 @@
 # Date this page was created.
 date = "2016-04-27"
 
-weight = 6
+weight = 7
 
 # Project title.
 title = "scipy_lp_dev"
